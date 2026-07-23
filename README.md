@@ -15,4 +15,4 @@ Simple, secure password generator written in Python that creates random password
 - loops
 
 ## Improvements I could make:
-- I could definitely add a password strength checker that confirms the strength of the generated password. But overall, I'm happy with it!
+- I could definitely add a password strength checker that confirms the strength of the generated password. But overall, I'm happy with it! ✅ (strength checker done)
